@@ -12,3 +12,6 @@ Al terminar el script le preguntara si quiere graficar y guardar los resultados.
 Para probar la red con varios partidos aleatorios para ver que tan dispersas son las predicciones (que no solo predice un promedio) correr:
 `python3 graph_random_inputs.py 500`
 500 siendo la cantidad de partidos aleatorios.
+
+
+![Grafico mostrando predicciones de faltas en 500 partidos aleatorios.](https://raw.githubusercontent.com/jnielavitzky/football_infraction_predictor/master/Testing%20with%20Random%20data.png)
